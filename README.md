@@ -5,3 +5,5 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaao&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&locale=pt-br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaao&theme=transparent&text_color=FFFFFF&locale=pt-br)](https://github.com/Lucaao/github-readme-stats)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvMnKKcwHPnPzRKslBDcWNxWVBzCkKDRCWzcFQgNQkMsJqZfPJFnpkcFXZJcNvPXCgCN)

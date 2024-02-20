@@ -4,6 +4,6 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaao&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaao&theme=transparent&text_color=FFFFFF&locale=pt-br)](https://github.com/Lucaao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaao&theme=transparent&text_color=417e87&locale=pt-br)](https://github.com/Lucaao/github-readme-stats)
 
 ### Contato: lucao@rede.ulbra.br
